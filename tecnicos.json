@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "nombre": "dario herrera",
+  "especialidad": "geologia",
+  "cargo": "geologo",
+  "fecha_ingreso": "2024-05-10"
+},
+{
+  "_id": 2,
+  "nombre": "diana lopez",
+  "especialidad": "ingenieria",
+  "cargo": "ingeniera",
+  "fecha_ingreso": "2023-08-20"
+},
+{
+  "_id": 3,
+  "nombre": "patricio ruiz",
+  "especialidad": "perforacion",
+  "cargo": "tecnico senior",
+  "fecha_ingreso": "2007-03-12"
+},
+{
+  "_id": 4,
+  "nombre": "ana torres",
+  "especialidad": "seguridad",
+  "cargo": "supervisora",
+  "fecha_ingreso": "2021-11-01"
+},
+{
+  "_id": 5,
+  "nombre": "luis recalde",
+  "especialidad": "mantenimiento",
+  "cargo": "tecnico",
+  "fecha_ingreso": "2022-06-18"
+}]

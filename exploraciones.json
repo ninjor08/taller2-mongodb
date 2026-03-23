@@ -1,0 +1,45 @@
+[{
+  "_id": 1,
+  "fecha_exploracion": "2024-01-10",
+  "volumen_estimado": 1500.5,
+  "observaciones": "resultado positivo",
+  "pozo_id": 1,
+  "tecnico_id": 1,
+  "equipo_id": 1
+},
+{
+  "_id": 2,
+  "fecha_exploracion": "2024-02-12",
+  "volumen_estimado": 1200,
+  "observaciones": "exploracion media",
+  "pozo_id": 2,
+  "tecnico_id": 2,
+  "equipo_id": 2
+},
+{
+  "_id": 3,
+  "fecha_exploracion": "2024-03-05",
+  "volumen_estimado": 1800.75,
+  "observaciones": "alto potencial",
+  "pozo_id": 3,
+  "tecnico_id": 3,
+  "equipo_id": 3
+},
+{
+  "_id": 4,
+  "fecha_exploracion": "2023-12-20",
+  "volumen_estimado": 900,
+  "observaciones": "bajo rendimiento",
+  "pozo_id": 4,
+  "tecnico_id": 4,
+  "equipo_id": 4
+},
+{
+  "_id": 5,
+  "fecha_exploracion": "2024-01-25",
+  "volumen_estimado": 2000,
+  "observaciones": "excelente resultado",
+  "pozo_id": 5,
+  "tecnico_id": 5,
+  "equipo_id": 5
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "nombre": "campo amazonia norte",
+  "ubicacion": "orellana",
+  "region": "amazonica",
+  "estado": "activo"
+},
+{
+  "_id": 2,
+  "nombre": "campo oriente sur",
+  "ubicacion": "pastaza",
+  "region": "amazonica",
+  "estado": "activo"
+},
+{
+  "_id": 3,
+  "nombre": "campo costa oeste",
+  "ubicacion": "manabi",
+  "region": "costa",
+  "estado": "inactivo"
+},
+{
+  "_id": 4,
+  "nombre": "campo sierra central",
+  "ubicacion": "chimborazo",
+  "region": "sierra",
+  "estado": "activo"
+},
+{
+  "_id": 5,
+  "nombre": "campo norte exploracion",
+  "ubicacion": "sucumbios",
+  "region": "amazonica",
+  "estado": "activo"
+}]

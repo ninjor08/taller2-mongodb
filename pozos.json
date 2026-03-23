@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "nombre": "Culebra 782",
+  "profundidad": 3000,
+  "fecha_perforacion": "2023-01-10",
+  "campo_id": 1
+},
+{
+  "_id": 2,
+  "nombre": "Sinopec 169",
+  "profundidad": 2800,
+  "fecha_perforacion": "2022-11-05",
+  "campo_id": 2
+},
+{
+  "_id": 3,
+  "nombre": "Fanny 14",
+  "profundidad": 3500,
+  "fecha_perforacion": "2023-03-15",
+  "campo_id": 1
+},
+{
+  "_id": 4,
+  "nombre": "Amo A",
+  "profundidad": 2600,
+  "fecha_perforacion": "2021-09-20",
+  "campo_id": 3
+},
+{
+  "_id": 5,
+  "nombre": "Armadillo 11",
+  "profundidad": 3100,
+  "fecha_perforacion": "2024-02-01",
+  "campo_id": 4
+}]

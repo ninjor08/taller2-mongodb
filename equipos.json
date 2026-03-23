@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "nombre": "taladro ccdc 25",
+  "tipo": "perforacion",
+  "estado": "operativo",
+  "fecha_adquisicion": "2020-01-01"
+},
+{
+  "_id": 2,
+  "nombre": "bomba m 15",
+  "tipo": "extraccion",
+  "estado": "operativo",
+  "fecha_adquisicion": "2019-07-15"
+},
+{
+  "_id": 3,
+  "nombre": "sensor pshl",
+  "tipo": "monitoreo",
+  "estado": "mantenimiento",
+  "fecha_adquisicion": "2021-03-10"
+},
+{
+  "_id": 4,
+  "nombre": "compresor c2911 c",
+  "tipo": "presion",
+  "estado": "operativo",
+  "fecha_adquisicion": "2018-12-01"
+},
+{
+  "_id": 5,
+  "nombre": "generador waukesha",
+  "tipo": "energia",
+  "estado": "fuera de servicio",
+  "fecha_adquisicion": "2017-06-25"
+}]
